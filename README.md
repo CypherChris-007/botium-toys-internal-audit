@@ -1,75 +1,83 @@
-🛡️ Botium Toys Internal Security Audit (Beginner Summary)
-🔍 Overview
+## 🛡️ Botium Toys Internal Security Audit (Beginner Summary)
 
+🔍 Overview
+---
 This project was part of an online learning module where I practiced completing a basic internal security audit for a fictional company. The activity helped me understand how organizations protect their data and follow security rules.
 
-🧩 Fundamental Cybersecurity Skills I Learned
-1. Identifying Assets
 
+## 🧩 Fundamental Cybersecurity Skills I Learned
+
+
+-------------------------
+  1. Identifying Assets 
+--------------------------
 I learned how to find and list important items the company uses, such as:
 
-Computers
+- Computers
 
-Network systems
+- Network systems
 
-Software
+- Software
 
-Databases
+- Databases
 
-Physical security equipment
+- Physical security equipment
 
 This helped me understand what needs to be protected.
 
+--------------------------
 2. Checking Security Controls
+--------------------------
+- I reviewed whether important protections were in place, including:
 
-I reviewed whether important protections were in place, including:
+- Password policies
 
-Password policies
+- Firewalls
 
-Firewalls
+- Antivirus
 
-Antivirus
+- Encryption
 
-Encryption
+- Backups
 
-Backups
+- Physical security (locks, cameras, fire systems)
 
-Physical security (locks, cameras, fire systems)
-
-This showed me which basic security measures the company was missing.
-
+- This showed me which basic security measures the company was missing.
+--------------------------
 3. Understanding Compliance
-
+--------------------------
 I learned the purpose of beginner-level compliance standards like:
 
-PCI DSS — protects credit card information
+- PCI DSS — protects credit card information
 
-GDPR — protects the data of E.U. customers
+- GDPR — protects the data of E.U. customers
 
 I checked whether the company followed these rules.
 
+--------------------------
 4. Basic Risk Awareness
-
+--------------------------
 I practiced:
 
-Identifying missing protections
+- Identifying missing protections
 
-Understanding how missing controls create risk
+- Understanding how missing controls create risk
 
-Reviewing a simple risk score
+- Reviewing a simple risk score
 
-This helped me see how small issues can lead to bigger security problems.
-
+- This helped me see how small issues can lead to bigger security problems.
+  
+--------------------------
 5. Making Simple Recommendations
+--------------------------
+- I suggested easy improvements such as:
 
-I suggested easy improvements such as:
+- Stronger passwords
 
-Stronger passwords
+- Adding encryption
 
-Adding encryption
+- Creating backups
 
-Creating backups
+- Improving access control
 
-Improving access control
-
-These are basic steps that help keep systems safe.
+- These are basic steps that help keep systems safe.
